@@ -14,6 +14,7 @@ Across all tested currencies, lower fees and improved FX rates resulted in consi
 - FX rate analysis
 - Cost comparison
 - Cross-border payments understanding
+- Microsoft Excel
 ###  Project Preview
 ![Project Screenshot](project-overview.png)
 
