@@ -1,6 +1,8 @@
  Cross-Border Payment Cost Analysis
 ### Overview
 I built this project to compare cross-border payment costs across multiple currencies, focusing on differences between traditional SWIFT transfers and an XRP-based model.
+## Full Research Report
+[View Full Report](./Ripple-Cross-Border-Payments-Analysis-Paper.docx)
 ###  What’s Included
 - 10 currency comparisons (GBP, EUR, JPY, AUD, INR, MXN, etc.)
 - Transaction fee analysis
