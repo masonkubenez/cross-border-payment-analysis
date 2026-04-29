@@ -11,7 +11,7 @@ Conducted an Excel-based financial analysis comparing traditional SWIFT transfer
 ### 💡 Key Insight
 XRP-based transfers consistently reduced both cost and settlement time, demonstrating the efficiency of blockchain-based liquidity solutions compared to traditional intermediary banking systems.
 ###  Preview
-![Project Screenshot]
+project-overview.png
 
 ### 🛠️ Skills Demonstrated
 - Financial modeling (Excel)
