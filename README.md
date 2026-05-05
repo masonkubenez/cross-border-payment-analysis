@@ -18,38 +18,22 @@ XRP-based transfers consistently reduced both cost and settlement time, demonstr
 - Cost comparison
 - Cross-border payments understanding
 - ---
-## 2. Ripple Cross-Border Payments Research Paper
-Analyzed Ripple’s role in modernizing global payment infrastructure, focusing on how XRP-based liquidity reduces reliance on pre-funded accounts, lowers transaction costs, and improves settlement efficiency.
-### 🔗 Links
-- 📄 [View Research Paper](https://github.com/masonkubenez/cross-border-payment-analysis/raw/main/Ripple-Cross-Border-Payments-Analysis-Paper.docx)
-###  Topics Covered
-- How SWIFT works
-- Limitations of intermediary banking
-- RippleNet & XRP liquidity model
-- Cost and speed comparison
-- Real-world use cases
-###  Key Insight
-Ripple’s technology demonstrates how blockchain-based payment infrastructure can significantly improve international money movement by reducing delays, lowering costs, and increasing capital efficiency.
-# Stablecoin Settlement & Treasury Management Analysis
-## Overview
-Stablecoins are blockchain-based digital assets designed to maintain a stable value relative to traditional currencies such as the U.S. dollar.
-This analysis examines how stablecoins can improve settlement efficiency, reduce transaction costs, and increase payment transparency compared to traditional banking systems.
-## Key Benefits
-- Faster transaction settlement
-- Reduced intermediary banking fees
-- 24/7 global transfer capability
-- Increased transaction transparency
-- Improved liquidity movement
-## Enterprise Relevance
-Companies such as Ripple, Circle, and Coinbase continue expanding blockchain-based payment infrastructure and stablecoin adoption across the financial industry.
-## Stablecoins Mentioned
-- USDC
-- USDT
-- RLUSD
-- DAI
-## Conclusion
-Stablecoins continue to play a growing role in blockchain settlement systems and may significantly impact the future of cross-border financial infrastructure.
-
-
-
-
+## 2. Blockchain Cross-Border Payment Analysis
+Analyzed how blockchain-based payment infrastructure can modernize international financial settlement systems by reducing intermediary costs, improving transparency, and accelerating transaction settlement times.
+### Links
+- [View Blockchain Payment Analysis Excel Model](Stablecoin_Settlement_Treasury_Analysis.xlsx)
+### Topics Covered
+- Stablecoin settlement systems
+- Treasury management infrastructure
+- SWIFT vs blockchain settlement
+- Cross-border liquidity movement
+- Payment transparency
+- Enterprise blockchain adoption
+### Key Insight
+Blockchain-based settlement systems and stablecoins continue improving global financial infrastructure by enabling faster settlement, lower fees, and 24/7 liquidity movement compared to traditional banking systems.
+### Skills Demonstrated
+- Financial modeling (Excel)
+- Blockchain infrastructure analysis
+- Stablecoin ecosystem understanding
+- Treasury settlement analysis
+- Cross-border payments research
